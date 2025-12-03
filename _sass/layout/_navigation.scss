@@ -206,13 +206,14 @@
   .visible-links {
     display: flex;
     flex-wrap: wrap;
-    justify-content: flex-end; // Align to right
+    align-items: center;
 
     li {
       display: block;
 
       &:first-child {
         font-weight: bold;
+        margin-right: auto; // Push other items to the right
         text-wrap: wrap;
 
         a {
