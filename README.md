@@ -1,8 +1,6 @@
 # Welcome! I’m Steve (Zijie) Qiu
 **An AI Engineer and Data Scientist with strong interests in LLMs, AI Agents, Computer Vision, and Machine Learning.**
 
-![Academic Pages template example](images/themes/homepage-light.png "Academic Pages template example")
-
 
 I received my Master of Science in Computational Finance & Risk Management and Bachelor of Arts in Mathematics from the University of Washington (GPA 3.6/4.0; Dean’s List), where I conducted machine learning research in financial modeling, econometrics, and time-series prediction. 
 
