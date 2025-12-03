@@ -104,8 +104,10 @@
     border-radius: 0;
 
     @include breakpoint($large) {
-      padding: 0;
-      border: none;
+      padding: 0 !important;
+      border: none !important;
+      background: transparent !important;
+      box-shadow: none !important;
     }
   }
 }
