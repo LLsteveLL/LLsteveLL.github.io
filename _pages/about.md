@@ -47,3 +47,11 @@ Currently, I am building full-stack AI agent platforms and preparing for a PhD i
 *   **Stack:** Flask, React, LangChain, Postgres, Docker
 *   **Tools:** PowerBI, Tableau, BigQuery, Salesforce
 
+---
+
+## Interests
+
+*   📸 **Photography**
+*   🏔️ **Hiking**
+*   ♠️ **Texas Hold'em**
+
